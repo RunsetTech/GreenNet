@@ -1,0 +1,11 @@
+[18-Aug-2019 22:19:24 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/greensv/public_html/cf/gn.php on line 16
+[18-Aug-2019 22:19:30 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/greensv/public_html/cf/gn.php on line 16
+[18-Aug-2019 22:20:29 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/greensv/public_html/cf/gn.php on line 16
+[19-Aug-2019 01:11:47 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/greensv/public_html/cf/gen.php on line 5
+[19-Aug-2019 01:12:31 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/greensv/public_html/cf/gen.php on line 5
+[19-Aug-2019 01:13:03 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/greensv/public_html/cf/gen.php on line 5
+[19-Aug-2019 01:13:03 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/greensv/public_html/cf/gen.php on line 8
+[19-Aug-2019 01:18:40 UTC] PHP Warning:  file_get_contents(https://backend.northghost.com/user/remainingTraffic): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/greensv/public_html/cf/gen.php on line 32
+[19-Aug-2019 01:18:43 UTC] PHP Warning:  file_get_contents(https://backend.northghost.com/user/remainingTraffic): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/greensv/public_html/cf/gen.php on line 32
